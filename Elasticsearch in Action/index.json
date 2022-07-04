@@ -4,14 +4,14 @@
     "lesson": [
         {
             "id": 1,
-            "name": "3.4 Using predefined fields.md",
-            "path": "Elasticsearch in Action/3.4 Using predefined fields.md",
+            "name": "3.1 Using mappings to define kinds of documents",
+            "path": "Elasticsearch in Action/3.1 Using mappings to define kinds of documents.md",
             "isIndex": false
         },
         {
             "id": 2,
-            "name": "ec2",
-            "path": "course/courses/aws/ec2.json",
+            "name": "3.4 Using predefined fields.md",
+            "path": "Elasticsearch in Action/3.4 Using predefined fields.md",
             "isIndex": false
         }
     ]
