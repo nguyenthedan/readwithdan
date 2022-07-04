@@ -8,8 +8,14 @@
             "path": "Elasticsearch in Action/3.1 Using mappings to define kinds of documents.md",
             "isIndex": false
         },
-        {
+		{
             "id": 2,
+            "name": "3.1.1 Retrieving and defining mappings",
+            "path": "Elasticsearch in Action/3.1.1 Retrieving and defining mappings.md",
+            "isIndex": false
+        },
+        {
+            "id": 3,
             "name": "3.4 Using predefined fields.md",
             "path": "Elasticsearch in Action/3.4 Using predefined fields.md",
             "isIndex": false
