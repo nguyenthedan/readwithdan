@@ -1,0 +1,18 @@
+{
+    "title": "AWS",
+    "description": "Become an AWS Certified Developer! Learn all Amazon Web Services Developer topics. PASS the AWS Certified Developer Exam",
+    "lesson": [
+        {
+            "id": 1,
+            "name": "3.4 Using predefined fields.md",
+            "path": "Elasticsearch in Action/3.4 Using predefined fields.md",
+            "isIndex": false
+        },
+        {
+            "id": 2,
+            "name": "ec2",
+            "path": "course/courses/aws/ec2.json",
+            "isIndex": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Elasticsearch in Action",
+        "description": "Elasticsearch in Action",
+        "img": "https://img-c.udemycdn.com/course/240x135/1035000_c1aa_6.jpg",
+        "path": "Elasticsearch in Action/index.json"
+    },
+    {
+        "id": 2,
+        "title": "Java",
+        "description": "Java Basic",
+        "img": "https://img-c.udemycdn.com/course/240x135/1035000_c1aa_6.jpg",
+        "path": "course/courses/java/index.json"
+    }
+]
