@@ -16,8 +16,8 @@
         },
 		{
             "id": 3,
-            "name": "3.1.2 Extending an existing mapping.md",
-            "path": "Elasticsearch in Action/3.1.2 Extending an existing mapping.md.md",
+            "name": "3.1.2 Extending an existing mapping",
+            "path": "Elasticsearch in Action/3.1.2 Extending an existing mapping.md",
             "isIndex": false
         },
         {
