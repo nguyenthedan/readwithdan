@@ -3,28 +3,79 @@
     "description": "Become an AWS Certified Developer! Learn all Amazon Web Services Developer topics. PASS the AWS Certified Developer Exam",
     "lesson": [
         {
-            "id": 1,
-            "name": "3.1 Using mappings to define kinds of documents",
-            "path": "Elasticsearch in Action/3.1 Using mappings to define kinds of documents.md",
-            "isIndex": false
-        },
-		{
-            "id": 2,
-            "name": "3.1.1 Retrieving and defining mappings",
-            "path": "Elasticsearch in Action/3.1.1 Retrieving and defining mappings.md",
-            "isIndex": false
-        },
-		{
-            "id": 3,
-            "name": "3.1.2 Extending an existing mapping",
-            "path": "Elasticsearch in Action/3.1.2 Extending an existing mapping.md",
-            "isIndex": false
+            "id": 0,
+            "name": "3.1 Using mappings to define kinds of documents.md",
+            "path": "Elasticsearch in Action/3.1 Using mappings to define kinds of documents.md"
         },
         {
-            "id": 100,
+            "id": 1,
+            "name": "3.1.1 Retrieving and defining mappings.md",
+            "path": "Elasticsearch in Action/3.1.1 Retrieving and defining mappings.md"
+        },
+        {
+            "id": 2,
+            "name": "3.1.2 Extending an existing mapping.md",
+            "path": "Elasticsearch in Action/3.1.2 Extending an existing mapping.md"
+        },
+        {
+            "id": 3,
+            "name": "3.2 Core types for defining your own fields in documents.md",
+            "path": "Elasticsearch in Action/3.2 Core types for defining your own fields in documents.md"
+        },
+        {
+            "id": 4,
+            "name": "3.2.1 String.md",
+            "path": "Elasticsearch in Action/3.2.1 String.md"
+        },
+        {
+            "id": 5,
+            "name": "3.2.2 Numeric.md",
+            "path": "Elasticsearch in Action/3.2.2 Numeric.md"
+        },
+        {
+            "id": 6,
+            "name": "3.2.3 Date.md",
+            "path": "Elasticsearch in Action/3.2.3 Date.md"
+        },
+        {
+            "id": 7,
+            "name": "3.2.4 Boolean.md",
+            "path": "Elasticsearch in Action/3.2.4 Boolean.md"
+        },
+        {
+            "id": 8,
+            "name": "3.3 Arrays and multi-fields.md",
+            "path": "Elasticsearch in Action/3.3 Arrays and multi-fields.md"
+        },
+        {
+            "id": 9,
+            "name": "3.3.1 Arrays.md",
+            "path": "Elasticsearch in Action/3.3.1 Arrays.md"
+        },
+        {
+            "id": 10,
+            "name": "3.3.2 Multi-fields.md",
+            "path": "Elasticsearch in Action/3.3.2 Multi-fields.md"
+        },
+        {
+            "id": 11,
             "name": "3.4 Using predefined fields.md",
-            "path": "Elasticsearch in Action/3.4 Using predefined fields.md",
-            "isIndex": false
+            "path": "Elasticsearch in Action/3.4 Using predefined fields.md"
+        },
+        {
+            "id": 12,
+            "name": "3.5 Updating existing documents.md",
+            "path": "Elasticsearch in Action/3.5 Updating existing documents.md"
+        },
+        {
+            "id": 13,
+            "name": "3.5.1 Using the update API.md",
+            "path": "Elasticsearch in Action/3.5.1 Using the update API.md"
+        },
+        {
+            "id": 14,
+            "name": "3.5.2 Implementing concurrency control through versioning.md",
+            "path": "Elasticsearch in Action/3.5.2 Implementing concurrency control through versioning.md"
         }
     ]
 }
